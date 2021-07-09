@@ -1,0 +1,109 @@
+--------------------
+Date: 9:7:2021
+Time: 16:54
+Phone number: +919458707426
+Message: HI
+--------------------
+Date: 9:7:2021
+Time: 16:59
+Phone number: +919458707426
+Message: HI
+--------------------
+Date: 9:7:2021
+Time: 17:0
+Phone number: +919458707426
+Message: Name = Apollomedics Hospital
+Address = Kanpur - Lucknow Rd Sector B Bargawan LDA Colony Lucknow UP
+Block Name = LUCKNOW URBAN
+Pincode = 226012
+Fee Type = Paid
+Vaccine = COVAXIN
+Minimum Age Limit = 18
+Dose 1 Available Slots = 0
+Dose 2 Available Slots = 0
+
+--------------------
+Date: 9:7:2021
+Time: 17:1
+Phone number: +919458707426
+Message: Name = Apollomedics Hospital
+Address = Kanpur - Lucknow Rd Sector B Bargawan LDA Colony Lucknow UP
+Block Name = LUCKNOW URBAN
+Pincode = 226012
+Fee Type = Paid
+Vaccine = COVAXIN
+Minimum Age Limit = 18
+Dose 1 Available Slots = 0
+Dose 2 Available Slots = 0
+
+--------------------
+Date: 9:7:2021
+Time: 17:1
+Phone number: +919458707426
+Message: Name = Aastha Center For Geriatric
+Address = Aastha Geriatric Hospital B 52 J Park Mahanagar Lucknow Uttar Pradesh
+Block Name = LUCKNOW URBAN
+Pincode = 226006
+Fee Type = Paid
+Vaccine = SPUTNIK V
+Minimum Age Limit = 18
+Dose 1 Available Slots = 0
+Dose 2 Available Slots = 0
+
+--------------------
+Date: 9:7:2021
+Time: 17:4
+Phone number: +919458707426
+Message: Name = Balrampur Hospital Lucknow
+Address = Balrampur Hospital Golaganj Lucknow
+Block Name = LUCKNOW URBAN
+Pincode = 226018
+Fee Type = Free
+Vaccine = COVISHIELD
+Minimum Age Limit = 18
+Dose 1 Available Slots = 0
+Dose 2 Available Slots = 0
+
+--------------------
+Date: 9:7:2021
+Time: 17:4
+Phone number: +919458707426
+Message: Name = BRD Hospital Mahanagar Lucknow
+Address = Mahanagr Lucknow Uttar Pradesh
+Block Name = LUCKNOW URBAN
+Pincode = 226006
+Fee Type = Free
+Vaccine = COVISHIELD
+Minimum Age Limit = 18
+Dose 1 Available Slots = 0
+Dose 2 Available Slots = 0
+
+--------------------
+Date: 9:7:2021
+Time: 17:5
+Phone number: +919458707426
+Message: Name = Balrampur Hospital Lucknow
+Address = Balrampur Hospital Golaganj Lucknow
+Block Name = LUCKNOW URBAN
+Pincode = 226018
+Fee Type = Free
+Vaccine = COVISHIELD
+Minimum Age Limit = 18
+Dose 1 Available Slots = 0
+Dose 2 Available Slots = 0
+
+--------------------
+Date: 9:7:2021
+Time: 17:5
+Phone number: +919458707426
+Message: Name = BRD Hospital Mahanagar Lucknow
+Address = Mahanagr Lucknow Uttar Pradesh
+Block Name = LUCKNOW URBAN
+Pincode = 226006
+Fee Type = Free
+Vaccine = COVISHIELD
+Minimum Age Limit = 18
+Dose 1 Available Slots = 0
+Dose 2 Available Slots = 0
+
+--------------------
