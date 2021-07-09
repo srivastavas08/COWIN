@@ -48,30 +48,30 @@ file_name = datetime.date.today()
 file_name = file_name.strftime("%d-%m-%Y")
 centers = pd.DataFrame.from_dict(dict, orient='index')
 centers = centers.transpose()
-# centers.to_html(f'{file_name}.html')
+centers.to_html(f'{file_name}.html')
 # centers.to_csv(f'{file_name}.csv')
-print("------------------------------------------------------------------------------------------------------------------------------------------------------------------")
-print("                                     Slots Available Today:")
-print("------------------------------------------------------------------------------------------------------------------------------------------------------------------")
-
-# with open("test.txt", "w") as file:
-#     file.write("------------------------------------------------------------------------------------------------------------------------------------------------------------------")
-#     file.write("                                     Slots Available Today:")
-#     file.write("------------------------------------------------------------------------------------------------------------------------------------------------------------------")
+# print("------------------------------------------------------------------------------------------------------------------------------------------------------------------")
+# print("                                     Slots Available Today:")
+# print("------------------------------------------------------------------------------------------------------------------------------------------------------------------")
 #
-with open(f"{datetime.date.today()}.txt", "a") as file:
-    file.truncate(0)
-
-for i in Message:
-    print(i)
-    print("------------xxxx------------")
-    with open(f"{file_name}.txt", "a") as file:
-        file.write(f"{i} \n \n")
-
-
-print("------------------------------------------------------------------------------------------------------------------------------------------------------------------")
-print("                                     Slots Available tomorrow")
-print("------------------------------------------------------------------------------------------------------------------------------------------------------------------")
+# # with open("test.txt", "w") as file:
+# #     file.write("------------------------------------------------------------------------------------------------------------------------------------------------------------------")
+# #     file.write("                                     Slots Available Today:")
+# #     file.write("------------------------------------------------------------------------------------------------------------------------------------------------------------------")
+# #
+# with open(f"{datetime.date.today()}.txt", "a") as file:
+#     file.truncate(0)
+#
+# for i in Message:
+#     print(i)
+#     print("------------xxxx------------")
+#     with open(f"{file_name}.txt", "a") as file:
+#         file.write(f"{i} \n \n")
+#
+#
+# print("------------------------------------------------------------------------------------------------------------------------------------------------------------------")
+# print("                                     Slots Available tomorrow")
+# print("------------------------------------------------------------------------------------------------------------------------------------------------------------------")
 
 dict={'name':[], 'address':[], 'block_name':[], 'pincode':[], 'fee_type':[], 'vaccine':[], 'min_age_limit':[], 'allow_all_age':[], 'available_capacity':[], 'dose1':[], 'dose2':[]  }
 Message1 = []
@@ -105,17 +105,17 @@ for i in range(length_value):
 centers = pd.DataFrame.from_dict(dict, orient='index')
 centers = centers.transpose()
 # centers.to_html(f'{today}.html')
-# centers.to_csv(f'{today}.csv')
-
-with open(f"{today}.txt", "a") as file:
-    file.truncate(0)
-
-for i in Message1:
-    print(i)
-    print("------------xxxx------------")
-    with open(f"{today}.txt", "a") as file:
-        file.write(f"{i} \n \n")
-
+centers.to_csv(f'{today}.csv')
+#
+# with open(f"{today}.txt", "a") as file:
+#     file.truncate(0)
+#
+# for i in Message1:
+#     print(i)
+#     print("------------xxxx------------")
+#     with open(f"{today}.txt", "a") as file:
+#         file.write(f"{i} \n \n")
+#
 
 
 
@@ -158,7 +158,7 @@ for i in Message1:
 #
 #
 # sender_address = 'mongoengine@gmail.com'
-# sender_pass = 'SHIvam7426'
+# sender_pass =
 # receiver_address = 'mongoengine@gmail.com'
 # #Setup the MIME
 # message = MIMEMultipart()
